@@ -1,0 +1,10 @@
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/messaging/Message.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/crypto/KDF.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/metrics/PerformanceMetrics.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/crypto/DoubleRatchet.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/message_gui/MessageGUI.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/Main.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/crypto/DiffieHellman.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/crypto/AEAD.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/messaging/MessageHandler.java
+/home/dianix/IST/CPS/projeto/cps-double-ratchet/src/main/java/messaging/NetworkManager.java
